@@ -6,7 +6,7 @@
 #include <fcntl.h>
 #include <string.h>
 #include <glob.h>
-#include "new.h"
+#include "grep.h"
 
 #define BLKSIZE  4096
 #define NBLK  2047 
